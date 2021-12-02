@@ -1,0 +1,8 @@
+{
+    "ScriptName" : "Gamble",
+    "Website" : "https://www.HDBSD.co.uk",
+    "Description" : "This is a basic boilerplate script",
+    "Creator" : "HDBSD",
+    "Version" : "1.0",
+    "ScriptFile": "Gamble.ps1"
+}
